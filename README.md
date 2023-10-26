@@ -2,7 +2,7 @@
 
 ## About
 
-BestList is a simple python script that combines Wordlists (default is SecLists Password Lists) to create the ultimate
+BestList is a simple python script that combines Wordlists (Rockyou, SecLists, ...) to create the ultimate
 list, because why would you pick one when you can have them all right?
 
 ## Usage
