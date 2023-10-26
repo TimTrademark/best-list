@@ -11,6 +11,8 @@ list, because why would you pick one when you can have them all right?
 python3 bestlist.py [--force]
 ```
 
+Outputs `combined.txt` with all the passwords (no duplicates)
+
 ## Dependencies
 
 ```
